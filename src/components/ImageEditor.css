@@ -90,8 +90,7 @@
     background-color: #0056b3;
   }
   
-  Add styles for input/search button, error, loading as before */
-  .search-input-container {
+   .search-input-container {
     margin-bottom: 20px;
     display: flex;
     gap: 10px;
